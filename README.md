@@ -1,2 +1,2 @@
 # eloquentjavascript
-tasks from book
+tasks from book here: https://gist.github.com/TimBlock
